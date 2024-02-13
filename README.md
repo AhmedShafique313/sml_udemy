@@ -13,3 +13,4 @@ Students you can simply check the lab session in our GitHub repository updately.
 * linear_regr_1_v.ipynb
 * model_linear_reg.ipynb
 ### Lab 4
+* housing.csv
