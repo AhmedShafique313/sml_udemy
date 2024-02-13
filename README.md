@@ -11,3 +11,5 @@ Students you can simply check the lab session in our GitHub repository updately.
 ### Lab 3 
 * Linear Regression
 * linear_regr_1_v.ipynb
+* model_linear_reg.ipynb
+### Lab 4
