@@ -1,5 +1,8 @@
-# Udemy & SkillShare
-## From Foundations: A Deep Dive into Machine Learning, Supervised Learning and Linear Regression😲
+# Udemy Course
+### Linear Regression: Supervised ML for predictive modeling😲
+
+![Linear Regression 1](https://github.com/AhmedShafique313/sml_udemy/assets/99950606/93f71261-678b-4ac3-b487-9f6a2d09f8f9)
+
 ### Instructor : Ahmed Shafique & Haiqa Qaiser
 
 Students you can simply check the lab session in our GitHub repository updately. If you facing any issue, dont feel hesitation to contact us. Its open source contribution for studens.
