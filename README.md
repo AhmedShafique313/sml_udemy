@@ -29,3 +29,8 @@ Students you can simply check the lab session in our GitHub repository updately.
 * w_linear_reg.ipynb
 
 ### Week5 
+Predicting salaries of employees using sklearn library
+- employee_salary.csv
+- linear_reg_employee.ipynb
+- ch2_Mathematical_Foundation.pdf
+- Linear Regression in detail.pptx
