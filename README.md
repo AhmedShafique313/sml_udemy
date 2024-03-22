@@ -34,5 +34,7 @@ Predicting salaries of employees using `sklearn` library
 - linear_reg_employee.ipynb
 - ch2_Mathematical_Foundation.pdf
 - Linear Regression in detail.pptx
+### Week6
+- employee_salary.csv
 - cost_function_py.ipynb
 - cost_func_dataset.ipynb
