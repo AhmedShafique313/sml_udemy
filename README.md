@@ -34,3 +34,4 @@ Predicting salaries of employees using `sklearn` library
 - linear_reg_employee.ipynb
 - ch2_Mathematical_Foundation.pdf
 - Linear Regression in detail.pptx
+
